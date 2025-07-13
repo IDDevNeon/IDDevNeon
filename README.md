@@ -33,31 +33,3 @@
 ###
 
 <br clear="both">
-
-<style>
-  .snake-svg {
-    width: 200px;
-    height: 50px;
-    display: block;
-  }
-
-  .snake-body {
-    fill: #4CAF50;
-    animation: moveSnake 2s linear infinite;
-  }
-
-  @keyframes moveSnake {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(100px); }
-  }
-</style>
-
-<svg class="snake-svg" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg" aria-label="Snake animation">
-  <!-- Snake body circles -->
-  <circle class="snake-body" cx="10" cy="25" r="10" />
-  <circle class="snake-body" cx="40" cy="25" r="10" style="animation-delay: 0.2s" />
-  <circle class="snake-body" cx="70" cy="25" r="10" style="animation-delay: 0.4s" />
-  <circle class="snake-body" cx="100" cy="25" r="10" style="animation-delay: 0.6s" />
-  <circle class="snake-body" cx="130" cy="25" r="10" style="animation-delay: 0.8s" />
-</svg>
-
