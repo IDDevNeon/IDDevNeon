@@ -26,7 +26,7 @@
 
 <div align="left">
   <a href="https://t.me/IDDevNeon" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="150" alt="telegram logo" />
   </a>
 </div>
 
